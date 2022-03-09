@@ -1,6 +1,8 @@
 # CardioFlow
 Optical Flow based tool for analysis of motion in cellular microscopy videos
 
+Optical flow is performed by external code. For developement of this code, optical flow was performed using publicly available code as described in Deqing Sun et al. "A Quantitative Analysis of Current Practices in Optical Flow Estimation and The Principles Behind Them" (2014)
+
 © 2021. Triad National Security, LLC. All rights reserved.
 This program was produced under U.S. Government contract 89233218CNA000001 for Los Alamos
 National Laboratory (LANL), which is operated by Triad National Security, LLC for the U.S.
